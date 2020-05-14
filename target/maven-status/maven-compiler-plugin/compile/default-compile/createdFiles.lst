@@ -1,0 +1,9 @@
+Automation/Fisdom/Operations.class
+Automation/Fisdom/App.class
+pojos/Bookingdates.class
+pojos/UpdateBookingResponse.class
+pojos/CreateBookingRequest.class
+pojos/CreateBookingResponse.class
+Automation/Fisdom/BaseClass.class
+pojos/AuthResponse.class
+pojos/Booking.class

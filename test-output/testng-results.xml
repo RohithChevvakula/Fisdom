@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1123" started-at="2020-05-14T09:15:27Z" finished-at="2020-05-14T09:15:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1123" started-at="2020-05-14T09:15:27Z" finished-at="2020-05-14T09:15:28Z">
+      <class name="Automation.Fisdom.FisdomTest">
+        <test-method status="PASS" signature="checkGeneratedAuthToken()[pri:1, instance:Automation.Fisdom.FisdomTest@593aaf41]" name="checkGeneratedAuthToken" duration-ms="7" started-at="2020-05-14T14:45:27Z" finished-at="2020-05-14T14:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkGeneratedAuthToken -->
+        <test-method status="PASS" signature="createFlightBooking()[pri:2, instance:Automation.Fisdom.FisdomTest@593aaf41]" name="createFlightBooking" duration-ms="273" started-at="2020-05-14T14:45:27Z" finished-at="2020-05-14T14:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createFlightBooking -->
+        <test-method status="PASS" signature="getBookingDetails()[pri:3, instance:Automation.Fisdom.FisdomTest@593aaf41]" name="getBookingDetails" duration-ms="298" started-at="2020-05-14T14:45:28Z" finished-at="2020-05-14T14:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookingDetails -->
+        <test-method status="PASS" signature="updateBooking()[pri:4, instance:Automation.Fisdom.FisdomTest@593aaf41]" name="updateBooking" duration-ms="305" started-at="2020-05-14T14:45:28Z" finished-at="2020-05-14T14:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBooking -->
+        <test-method status="PASS" signature="partialUpdateBooking()[pri:5, instance:Automation.Fisdom.FisdomTest@593aaf41]" name="partialUpdateBooking" duration-ms="220" started-at="2020-05-14T14:45:28Z" finished-at="2020-05-14T14:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- partialUpdateBooking -->
+      </class> <!-- Automation.Fisdom.FisdomTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
